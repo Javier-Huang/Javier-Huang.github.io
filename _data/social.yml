@@ -7,5 +7,5 @@
   url: https://javier-huang.github.io/
 
 - sitename: 邮箱
-  name: Javier-Huang
-  url: 863472527@qq.com
+  name: sendEmail
+  url: mailto:863472527@qq.com
