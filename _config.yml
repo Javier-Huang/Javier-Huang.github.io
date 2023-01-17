@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://javier-huang.github.io/
+url: https://javier-huang.github.io
 date_format: "ordinal"
 title: Javier-Huang
 subtitle: "谦谦君子，温润如玉"
